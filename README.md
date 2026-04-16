@@ -119,6 +119,7 @@ class Lakshin:
 
 ## GitHub Stats
 
+<img alt="Lakshin Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lakshin7&bg_color=0D1117&title_color=7C3AED&color=7C3AED&line=7C3AED&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lakshin7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" height="165"/>
