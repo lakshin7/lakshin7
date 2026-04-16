@@ -6,11 +6,9 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+NLP+Explorer+%F0%9F%A7%A0;Knowledge+Distillation+%26+Quantization+%E2%9A%A1;Making+Large+AI+Run+on+Small+Machines+%F0%9F%9A%80;Building+Zynthe+Toolkit+%F0%9F%9B%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+NLP+Explorer+%F0%9F%A7%A0;Knowledge+Distillation+%26+Quantization+%E2%9A%A1;Making+Large+AI+Run+on+Small+Machines+%F0%9F%9A%80;Building+Zynthe+Toolkit+%F0%9F%9B%A0)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## 🤖 `Lakshin.init()`
 
@@ -40,7 +38,7 @@ class Lakshin:
 
 ---
 
-## 🚧 Current Focus
+## Current Focus
 
 <table>
   <tr>
@@ -65,9 +63,7 @@ class Lakshin:
   </tr>
 </table>
 
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -101,9 +97,9 @@ class Lakshin:
 
 </div>
 
----
 
-## 🚀 Featured Project
+
+## Featured Project
 
 <div align="center">
 
@@ -121,7 +117,7 @@ class Lakshin:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -130,44 +126,19 @@ class Lakshin:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshin7&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6E6E&currStreakLabel=C9D1D9" height="165"/>
 
-<br/><br/>
-
-
-
-</div>
-
----
-
-## 💡 Mindset
-
-<div align="center">
-
-> *"Don't just use models. Understand them. Optimize them. **Own them.**"*
-
-</div>
-
----
 
 ## 📫 Connect With Me
+</div>
+
+
+
+
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshin002@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/citrushin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshin-s)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/citrushin)
 
 </div>
-
----
-
-## ⚡ Fun Fact
-
-> I'm working towards making **large AI models run on small machines** — efficiently, without compromise.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,17,35&height=100&section=footer" width="100%"/>
-
 </div>
